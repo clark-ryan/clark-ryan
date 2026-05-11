@@ -3,9 +3,9 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. These projects allow me to dive deep into the ever-evolving landscape of cybersecurity and IT. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## Vulnerability Management Projects
+## Network Configuration Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/clark-ryan/vulnerability-management-program) - Currently working**
+- [ISP Multi-Area OSPF Lab](https://github.com/clark-ryan/isp-multi-area-ospf-lab)
 <!--- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/clark-ryan/programmatic-vulnerability-remediations)**
 <!---
 ## Threat Hunting and Security Operations
