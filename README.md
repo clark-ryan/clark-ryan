@@ -12,6 +12,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
  **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/clark-ryan/threat-hunting-scenario-tor)**-->
 
+## Cloud Computing Projects 
+
+- [Azure Active Directory Splunk Lab](https://github.com/clark-ryan/azure-ad-splunk-lab)
 <hr/>
 
 ## Connect With Me
