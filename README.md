@@ -19,9 +19,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Connect With Me
 
-<a href="https://linkedin.com/in/ryan-k-clark">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" style="filter: invert(16%) sepia(79%) saturate(1517%) hue-rotate(196deg) brightness(93%) contrast(96%);">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-k-clark)
 
 
 <!--
